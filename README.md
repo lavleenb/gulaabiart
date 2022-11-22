@@ -1,2 +1,2 @@
 # gulaabiart
-a portfolio style website to showcase my art1
+a portfolio style website to showcase my art!
